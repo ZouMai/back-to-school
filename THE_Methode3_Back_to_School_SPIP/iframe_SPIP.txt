@@ -1,0 +1,8 @@
+<iframe
+  src="/jeux/THE_Methode3_Back_to_School_SPIP/index.html"
+  width="100%"
+  height="1000"
+  style="border:0;border-radius:18px;"
+  allow="autoplay"
+  loading="lazy">
+</iframe>
